@@ -1,0 +1,42 @@
+/* ======================= */
+/* = Related Content CSS = */
+/* ======================= */
+
+.view-related-content.view-display-id-block_5 .views-row {
+  clear: both;
+}
+
+.view-related-content.view-display-id-block_5 .views-field-title {
+  padding: 10px 0px;
+}
+
+.view-related-content.view-display-id-block_5 .views-field-title a {
+  font-size: 24px;
+}
+
+.view-related-content.view-display-id-block_5 .views-field-field-image {
+  width: 23%;
+  float: left;
+  margin-right: 10px;
+}
+
+.view-related-content.view-display-id-block_5 .views-field-body p {
+  margin: 0px;
+}
+
+#block-views-related-content-block-5 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 45px;
+}
+
+#block-views-related-content-block-3 h2 {
+  margin-top: 0px;
+}
+
+#block-views-related-content-block-3 {
+  background: #ddd;
+  border-radius: 2px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
